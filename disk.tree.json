@@ -13220,13 +13220,13 @@
             },
             {
                 "value": 1072,
-                "name": "Speech.prefPane",
-                "path": "PreferencePanes/Speech.prefPane",
+                "name": "教育.prefPane",
+                "path": "PreferencePanes/教育.prefPane",
                 "children": [
                     {
                         "value": 1072,
                         "name": "Contents",
-                        "path": "PreferencePanes/Speech.prefPane/Contents"
+                        "path": "PreferencePanes/教育.prefPane/Contents"
                     }
                 ]
             },
@@ -17958,357 +17958,357 @@
     },
     {
         "value": 1512668,
-        "name": "Speech",
-        "path": "Speech",
+        "name": "教育",
+        "path": "教育",
         "children": [
             {
                 "value": 2804,
                 "name": "Recognizers",
-                "path": "Speech/Recognizers",
+                "path": "教育/Recognizers",
                 "children": [
                     {
                         "value": 2804,
                         "name": "AppleSpeakableItems.SpeechRecognizer",
-                        "path": "Speech/Recognizers/AppleSpeakableItems.SpeechRecognizer"
+                        "path": "教育/Recognizers/AppleSpeakableItems.SpeechRecognizer"
                     }
                 ]
             },
             {
                 "value": 6684,
                 "name": "Synthesizers",
-                "path": "Speech/Synthesizers",
+                "path": "教育/Synthesizers",
                 "children": [
                     {
                         "value": 800,
                         "name": "MacinTalk.SpeechSynthesizer",
-                        "path": "Speech/Synthesizers/MacinTalk.SpeechSynthesizer"
+                        "path": "教育/Synthesizers/MacinTalk.SpeechSynthesizer"
                     },
                     {
                         "value": 3468,
                         "name": "MultiLingual.SpeechSynthesizer",
-                        "path": "Speech/Synthesizers/MultiLingual.SpeechSynthesizer"
+                        "path": "教育/Synthesizers/MultiLingual.SpeechSynthesizer"
                     },
                     {
                         "value": 2416,
                         "name": "Polyglot.SpeechSynthesizer",
-                        "path": "Speech/Synthesizers/Polyglot.SpeechSynthesizer"
+                        "path": "教育/Synthesizers/Polyglot.SpeechSynthesizer"
                     }
                 ]
             },
             {
                 "value": 1503180,
                 "name": "Voices",
-                "path": "Speech/Voices",
+                "path": "教育/Voices",
                 "children": [
                     {
                         "value": 1540,
                         "name": "Agnes.SpeechVoice",
-                        "path": "Speech/Voices/Agnes.SpeechVoice"
+                        "path": "教育/Voices/Agnes.SpeechVoice"
                     },
                     {
                         "value": 20,
                         "name": "Albert.SpeechVoice",
-                        "path": "Speech/Voices/Albert.SpeechVoice"
+                        "path": "教育/Voices/Albert.SpeechVoice"
                     },
                     {
                         "value": 412132,
                         "name": "Alex.SpeechVoice",
-                        "path": "Speech/Voices/Alex.SpeechVoice"
+                        "path": "教育/Voices/Alex.SpeechVoice"
                     },
                     {
                         "value": 624,
                         "name": "AliceCompact.SpeechVoice",
-                        "path": "Speech/Voices/AliceCompact.SpeechVoice"
+                        "path": "教育/Voices/AliceCompact.SpeechVoice"
                     },
                     {
                         "value": 908,
                         "name": "AlvaCompact.SpeechVoice",
-                        "path": "Speech/Voices/AlvaCompact.SpeechVoice"
+                        "path": "教育/Voices/AlvaCompact.SpeechVoice"
                     },
                     {
                         "value": 668,
                         "name": "AmelieCompact.SpeechVoice",
-                        "path": "Speech/Voices/AmelieCompact.SpeechVoice"
+                        "path": "教育/Voices/AmelieCompact.SpeechVoice"
                     },
                     {
                         "value": 1016,
                         "name": "AnnaCompact.SpeechVoice",
-                        "path": "Speech/Voices/AnnaCompact.SpeechVoice"
+                        "path": "教育/Voices/AnnaCompact.SpeechVoice"
                     },
                     {
                         "value": 12,
                         "name": "BadNews.SpeechVoice",
-                        "path": "Speech/Voices/BadNews.SpeechVoice"
+                        "path": "教育/Voices/BadNews.SpeechVoice"
                     },
                     {
                         "value": 20,
                         "name": "Bahh.SpeechVoice",
-                        "path": "Speech/Voices/Bahh.SpeechVoice"
+                        "path": "教育/Voices/Bahh.SpeechVoice"
                     },
                     {
                         "value": 48,
                         "name": "Bells.SpeechVoice",
-                        "path": "Speech/Voices/Bells.SpeechVoice"
+                        "path": "教育/Voices/Bells.SpeechVoice"
                     },
                     {
                         "value": 20,
                         "name": "Boing.SpeechVoice",
-                        "path": "Speech/Voices/Boing.SpeechVoice"
+                        "path": "教育/Voices/Boing.SpeechVoice"
                     },
                     {
                         "value": 1684,
                         "name": "Bruce.SpeechVoice",
-                        "path": "Speech/Voices/Bruce.SpeechVoice"
+                        "path": "教育/Voices/Bruce.SpeechVoice"
                     },
                     {
                         "value": 12,
                         "name": "Bubbles.SpeechVoice",
-                        "path": "Speech/Voices/Bubbles.SpeechVoice"
+                        "path": "教育/Voices/Bubbles.SpeechVoice"
                     },
                     {
                         "value": 24,
                         "name": "Cellos.SpeechVoice",
-                        "path": "Speech/Voices/Cellos.SpeechVoice"
+                        "path": "教育/Voices/Cellos.SpeechVoice"
                     },
                     {
                         "value": 720,
                         "name": "DamayantiCompact.SpeechVoice",
-                        "path": "Speech/Voices/DamayantiCompact.SpeechVoice"
+                        "path": "教育/Voices/DamayantiCompact.SpeechVoice"
                     },
                     {
                         "value": 1000,
                         "name": "DanielCompact.SpeechVoice",
-                        "path": "Speech/Voices/DanielCompact.SpeechVoice"
+                        "path": "教育/Voices/DanielCompact.SpeechVoice"
                     },
                     {
                         "value": 24,
                         "name": "Deranged.SpeechVoice",
-                        "path": "Speech/Voices/Deranged.SpeechVoice"
+                        "path": "教育/Voices/Deranged.SpeechVoice"
                     },
                     {
                         "value": 740,
                         "name": "EllenCompact.SpeechVoice",
-                        "path": "Speech/Voices/EllenCompact.SpeechVoice"
+                        "path": "教育/Voices/EllenCompact.SpeechVoice"
                     },
                     {
                         "value": 12,
                         "name": "Fred.SpeechVoice",
-                        "path": "Speech/Voices/Fred.SpeechVoice"
+                        "path": "教育/Voices/Fred.SpeechVoice"
                     },
                     {
                         "value": 12,
                         "name": "GoodNews.SpeechVoice",
-                        "path": "Speech/Voices/GoodNews.SpeechVoice"
+                        "path": "教育/Voices/GoodNews.SpeechVoice"
                     },
                     {
                         "value": 28,
                         "name": "Hysterical.SpeechVoice",
-                        "path": "Speech/Voices/Hysterical.SpeechVoice"
+                        "path": "教育/Voices/Hysterical.SpeechVoice"
                     },
                     {
                         "value": 492,
                         "name": "IoanaCompact.SpeechVoice",
-                        "path": "Speech/Voices/IoanaCompact.SpeechVoice"
+                        "path": "教育/Voices/IoanaCompact.SpeechVoice"
                     },
                     {
                         "value": 596,
                         "name": "JoanaCompact.SpeechVoice",
-                        "path": "Speech/Voices/JoanaCompact.SpeechVoice"
+                        "path": "教育/Voices/JoanaCompact.SpeechVoice"
                     },
                     {
                         "value": 12,
                         "name": "Junior.SpeechVoice",
-                        "path": "Speech/Voices/Junior.SpeechVoice"
+                        "path": "教育/Voices/Junior.SpeechVoice"
                     },
                     {
                         "value": 1336,
                         "name": "KanyaCompact.SpeechVoice",
-                        "path": "Speech/Voices/KanyaCompact.SpeechVoice"
+                        "path": "教育/Voices/KanyaCompact.SpeechVoice"
                     },
                     {
                         "value": 1004,
                         "name": "KarenCompact.SpeechVoice",
-                        "path": "Speech/Voices/KarenCompact.SpeechVoice"
+                        "path": "教育/Voices/KarenCompact.SpeechVoice"
                     },
                     {
                         "value": 12,
                         "name": "Kathy.SpeechVoice",
-                        "path": "Speech/Voices/Kathy.SpeechVoice"
+                        "path": "教育/Voices/Kathy.SpeechVoice"
                     },
                     {
                         "value": 408836,
                         "name": "Kyoko.SpeechVoice",
-                        "path": "Speech/Voices/Kyoko.SpeechVoice"
+                        "path": "教育/Voices/Kyoko.SpeechVoice"
                     },
                     {
                         "value": 2620,
                         "name": "KyokoCompact.SpeechVoice",
-                        "path": "Speech/Voices/KyokoCompact.SpeechVoice"
+                        "path": "教育/Voices/KyokoCompact.SpeechVoice"
                     },
                     {
                         "value": 496,
                         "name": "LauraCompact.SpeechVoice",
-                        "path": "Speech/Voices/LauraCompact.SpeechVoice"
+                        "path": "教育/Voices/LauraCompact.SpeechVoice"
                     },
                     {
                         "value": 2104,
                         "name": "LekhaCompact.SpeechVoice",
-                        "path": "Speech/Voices/LekhaCompact.SpeechVoice"
+                        "path": "教育/Voices/LekhaCompact.SpeechVoice"
                     },
                     {
                         "value": 548,
                         "name": "LucianaCompact.SpeechVoice",
-                        "path": "Speech/Voices/LucianaCompact.SpeechVoice"
+                        "path": "教育/Voices/LucianaCompact.SpeechVoice"
                     },
                     {
                         "value": 504,
                         "name": "MariskaCompact.SpeechVoice",
-                        "path": "Speech/Voices/MariskaCompact.SpeechVoice"
+                        "path": "教育/Voices/MariskaCompact.SpeechVoice"
                     },
                     {
                         "value": 2092,
                         "name": "Mei-JiaCompact.SpeechVoice",
-                        "path": "Speech/Voices/Mei-JiaCompact.SpeechVoice"
+                        "path": "教育/Voices/Mei-JiaCompact.SpeechVoice"
                     },
                     {
                         "value": 1020,
                         "name": "MelinaCompact.SpeechVoice",
-                        "path": "Speech/Voices/MelinaCompact.SpeechVoice"
+                        "path": "教育/Voices/MelinaCompact.SpeechVoice"
                     },
                     {
                         "value": 2160,
                         "name": "MilenaCompact.SpeechVoice",
-                        "path": "Speech/Voices/MilenaCompact.SpeechVoice"
+                        "path": "教育/Voices/MilenaCompact.SpeechVoice"
                     },
                     {
                         "value": 728,
                         "name": "MoiraCompact.SpeechVoice",
-                        "path": "Speech/Voices/MoiraCompact.SpeechVoice"
+                        "path": "教育/Voices/MoiraCompact.SpeechVoice"
                     },
                     {
                         "value": 612,
                         "name": "MonicaCompact.SpeechVoice",
-                        "path": "Speech/Voices/MonicaCompact.SpeechVoice"
+                        "path": "教育/Voices/MonicaCompact.SpeechVoice"
                     },
                     {
                         "value": 824,
                         "name": "NoraCompact.SpeechVoice",
-                        "path": "Speech/Voices/NoraCompact.SpeechVoice"
+                        "path": "教育/Voices/NoraCompact.SpeechVoice"
                     },
                     {
                         "value": 24,
                         "name": "Organ.SpeechVoice",
-                        "path": "Speech/Voices/Organ.SpeechVoice"
+                        "path": "教育/Voices/Organ.SpeechVoice"
                     },
                     {
                         "value": 664,
                         "name": "PaulinaCompact.SpeechVoice",
-                        "path": "Speech/Voices/PaulinaCompact.SpeechVoice"
+                        "path": "教育/Voices/PaulinaCompact.SpeechVoice"
                     },
                     {
                         "value": 12,
                         "name": "Princess.SpeechVoice",
-                        "path": "Speech/Voices/Princess.SpeechVoice"
+                        "path": "教育/Voices/Princess.SpeechVoice"
                     },
                     {
                         "value": 12,
                         "name": "Ralph.SpeechVoice",
-                        "path": "Speech/Voices/Ralph.SpeechVoice"
+                        "path": "教育/Voices/Ralph.SpeechVoice"
                     },
                     {
                         "value": 908,
                         "name": "SamanthaCompact.SpeechVoice",
-                        "path": "Speech/Voices/SamanthaCompact.SpeechVoice"
+                        "path": "教育/Voices/SamanthaCompact.SpeechVoice"
                     },
                     {
                         "value": 828,
                         "name": "SaraCompact.SpeechVoice",
-                        "path": "Speech/Voices/SaraCompact.SpeechVoice"
+                        "path": "教育/Voices/SaraCompact.SpeechVoice"
                     },
                     {
                         "value": 664,
                         "name": "SatuCompact.SpeechVoice",
-                        "path": "Speech/Voices/SatuCompact.SpeechVoice"
+                        "path": "教育/Voices/SatuCompact.SpeechVoice"
                     },
                     {
                         "value": 2336,
                         "name": "Sin-jiCompact.SpeechVoice",
-                        "path": "Speech/Voices/Sin-jiCompact.SpeechVoice"
+                        "path": "教育/Voices/Sin-jiCompact.SpeechVoice"
                     },
                     {
                         "value": 2856,
                         "name": "TarikCompact.SpeechVoice",
-                        "path": "Speech/Voices/TarikCompact.SpeechVoice"
+                        "path": "教育/Voices/TarikCompact.SpeechVoice"
                     },
                     {
                         "value": 948,
                         "name": "TessaCompact.SpeechVoice",
-                        "path": "Speech/Voices/TessaCompact.SpeechVoice"
+                        "path": "教育/Voices/TessaCompact.SpeechVoice"
                     },
                     {
                         "value": 660,
                         "name": "ThomasCompact.SpeechVoice",
-                        "path": "Speech/Voices/ThomasCompact.SpeechVoice"
+                        "path": "教育/Voices/ThomasCompact.SpeechVoice"
                     },
                     {
                         "value": 610156,
-                        "name": "Ting-Ting.SpeechVoice",
-                        "path": "Speech/Voices/Ting-Ting.SpeechVoice"
+                        "name": "我的测试",
+                        "path": "教育/Voices/Ting-Ting.SpeechVoice"
                     },
                     {
                         "value": 1708,
                         "name": "Ting-TingCompact.SpeechVoice",
-                        "path": "Speech/Voices/Ting-TingCompact.SpeechVoice"
+                        "path": "教育/Voices/Ting-TingCompact.SpeechVoice"
                     },
                     {
                         "value": 12,
                         "name": "Trinoids.SpeechVoice",
-                        "path": "Speech/Voices/Trinoids.SpeechVoice"
+                        "path": "教育/Voices/Trinoids.SpeechVoice"
                     },
                     {
                         "value": 28632,
                         "name": "Vicki.SpeechVoice",
-                        "path": "Speech/Voices/Vicki.SpeechVoice"
+                        "path": "教育/Voices/Vicki.SpeechVoice"
                     },
                     {
                         "value": 1664,
                         "name": "Victoria.SpeechVoice",
-                        "path": "Speech/Voices/Victoria.SpeechVoice"
+                        "path": "教育/Voices/Victoria.SpeechVoice"
                     },
                     {
                         "value": 12,
                         "name": "Whisper.SpeechVoice",
-                        "path": "Speech/Voices/Whisper.SpeechVoice"
+                        "path": "教育/Voices/Whisper.SpeechVoice"
                     },
                     {
                         "value": 992,
                         "name": "XanderCompact.SpeechVoice",
-                        "path": "Speech/Voices/XanderCompact.SpeechVoice"
+                        "path": "教育/Voices/XanderCompact.SpeechVoice"
                     },
                     {
                         "value": 756,
                         "name": "YeldaCompact.SpeechVoice",
-                        "path": "Speech/Voices/YeldaCompact.SpeechVoice"
+                        "path": "教育/Voices/YeldaCompact.SpeechVoice"
                     },
                     {
                         "value": 728,
                         "name": "YunaCompact.SpeechVoice",
-                        "path": "Speech/Voices/YunaCompact.SpeechVoice"
+                        "path": "教育/Voices/YunaCompact.SpeechVoice"
                     },
                     {
                         "value": 12,
                         "name": "Zarvox.SpeechVoice",
-                        "path": "Speech/Voices/Zarvox.SpeechVoice"
+                        "path": "教育/Voices/Zarvox.SpeechVoice"
                     },
                     {
                         "value": 564,
                         "name": "ZosiaCompact.SpeechVoice",
-                        "path": "Speech/Voices/ZosiaCompact.SpeechVoice"
+                        "path": "教育/Voices/ZosiaCompact.SpeechVoice"
                     },
                     {
                         "value": 772,
                         "name": "ZuzanaCompact.SpeechVoice",
-                        "path": "Speech/Voices/ZuzanaCompact.SpeechVoice"
+                        "path": "教育/Voices/ZuzanaCompact.SpeechVoice"
                     }
                 ]
             }
